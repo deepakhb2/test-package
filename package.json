@@ -1,0 +1,22 @@
+{
+  "name": "@deepakhb2/test-package",
+  "version": "1.0.0",
+  "description": "Learn to deploy npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakhb2/test-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakhb2/test-package/issues"
+  },
+  "homepage": "https://github.com/deepakhb2/test-package#readme"
+}
